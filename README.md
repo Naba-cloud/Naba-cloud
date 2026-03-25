@@ -37,7 +37,7 @@ Modern AI admin dashboard for managing prompts, chats, and analytics.
 ### ⚡ React Debounce Hook
 Reusable debounce hook for **optimized input performance**.  
 **Tech:** React, TypeScript  
-[🔗 Repo](#)](https://github.com/Naba-cloud/react-debounce-input)
+[🔗 Live Demo / Repo](https://github.com/Naba-cloud/react-debounce-input)
 
 ---
 
