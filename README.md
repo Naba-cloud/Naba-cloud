@@ -23,7 +23,7 @@
 ## 📊 My GitHub Stats
 
 ![Naba Zehra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naba-cloud&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naba-cloud&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naba-cloud&layout=compact&theme=radical)
 
 ---
 
