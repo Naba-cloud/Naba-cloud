@@ -1,75 +1,59 @@
-# 👋 Hi, I'm Naba Zehra
+# Hi, I'm Naba Zehra 👋
 
-⚛️ **Frontend Engineer** • ▲ **Next.js** • 🎨 **UI Specialist** • 🤖 **AI Dashboards**
+**Software Engineer | React & TypeScript | Java & Spring Boot | Full-Stack Development**
 
-🚀 I build **modern, scalable SaaS dashboards, AI interfaces, and high-quality frontend architectures** using React and Next.js.  
-💡 Passionate about **clean UI, performance, and developer-friendly component systems**.
+I’m a Software Engineer with a frontend foundation and growing experience in backend development. I enjoy building practical, scalable applications, understanding how systems work behind the scenes, and turning complex requirements into reliable software.
 
----
+My current focus is expanding into full-stack engineering with Java, Spring Boot, PostgreSQL, and AI-powered applications.
 
-## 🧰 Tech Stack
+### 🚀 What I'm Working On
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=redux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+- Building backend services and REST APIs with Java and Spring Boot
+- Strengthening database design and SQL skills with PostgreSQL
+- Developing responsive applications using React and TypeScript
+- Exploring AI integration and intelligent application workflows
+- Learning system design, application architecture, and scalable engineering practices
 
----
+### 🛠️ Technologies
 
-## 📊 My GitHub Stats
+**Frontend**
+- JavaScript, TypeScript
+- React.js, Next.js
+- HTML5, CSS3, Bootstrap, Ant Design
 
-![Naba Zehra's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naba-cloud&show_icons=true&theme=radical
-)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naba-cloud&layout=compact&theme=radical)
+**Backend & Databases**
+- Java, Spring Boot
+- Node.js, Express.js
+- PostgreSQL, MongoDB
+- REST APIs
 
----
+**Tools & Practices**
+- Git, GitHub
+- Postman
+- Docker
+- Vitest, React Testing Library
+- API integration, debugging, and testing
 
-## 🚀 Featured Projects
+### 💼 Featured Work
 
-### 🤖 AI Chat Dashboard
-Modern AI admin dashboard for managing prompts, chats, and analytics.  
-**Tech:** Next.js, TypeScript, Tailwind  
-[🔗 Live Demo / Repo](https://github.com/naba-cloud/ai-chat-dashboard)
+Explore my projects and development work:
 
-### ⚡ React Debounce Hook
-Reusable debounce hook for **optimized input performance**.  
-**Tech:** React, TypeScript  
-[🔗 Live Demo / Repo](https://github.com/Naba-cloud/react-debounce-input)
+- **Portfolio:** [naba-portfolio.vercel.app](https://naba-portfolio.vercel.app)
+- **GitHub Repositories:** [github.com/Naba-cloud](https://github.com/Naba-cloud)
 
----
+### 📚 Currently Learning
 
-## 🎯 Currently Working On
-- 🤖 **AI SaaS Interfaces**  
-- 🎨 **Advanced UI Systems**  
-- ⚡ **Performance-Optimized Next.js Apps**  
-- 🧩 **Reusable Component Architecture**
+- Backend architecture and system design
+- Java ecosystem and Spring Boot
+- Database optimization
+- AI-powered full-stack applications
 
----
+### 🤝 Let's Connect
 
-## 🌱 Skills Progress
-
-**Frontend:**  
-React ▰▰▰▰▰▰▰▰▰▱ 90%  
-Next.js ▰▰▰▰▰▰▰▰▰▱ 85%  
-TypeScript ▰▰▰▰▰▰▰▰▰▱ 80%  
-Tailwind ▰▰▰▰▰▰▰▰▰▱ 85%  
-
-**State Management & APIs:**  
-Redux ▰▰▰▰▰▰▰▰▱▱ 75%  
-Zustand ▰▰▰▰▰▰▰▱▱▱ 65%  
-REST API ▰▰▰▰▰▰▰▰▱▱ 80%  
+- **Portfolio:** [naba-portfolio.vercel.app](https://naba-portfolio.vercel.app)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/naba-zehra-dev/)
+- **GitHub:** [Naba-cloud](https://github.com/Naba-cloud)
 
 ---
 
-## 🌍 Connect With Me
-💼 [LinkedIn](https://www.linkedin.com/in/naba-zehra-dev/)  
-📧 [Email](mailto:nabazehra45@gmail.com)  
-
----
-
-## 💡 Fun Fact
-When not coding, I love **experimenting with UI animations** and exploring **AI-powered dashboards** for smarter interfaces.
+*Always learning, building, and improving.*
